@@ -1,8 +1,8 @@
 ```markdown
 # Desenvolvimento Front-End Para Web
 
-Este repositório reúne projetos, atividades e exercícios focados no desenvolvimento de interfaces para web, utilizando fundamentos essenciais como HTML, CSS e JavaScript. O objetivo é criar bases sólidas para construção de páginas modernas, responsivas e funcionais.```
-
+Este repositório reúne projetos, atividades e exercícios focados no desenvolvimento de interfaces para web, utilizando fundamentos essenciais como HTML, CSS e JavaScript. O objetivo é criar bases sólidas para construção de páginas modernas, responsivas e funcionais.
+```
 ---
 
 ## 📘 Sobre o Projeto
